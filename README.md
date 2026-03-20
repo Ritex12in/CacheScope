@@ -20,6 +20,14 @@ Fetches GitHub user search results using **5 different cache strategies**, measu
 
 ---
 
+## Screenshots
+
+| Benchmark | Analytics | Race |
+|-----------|-----------|------|
+| ![Benchmark](https://github.com/user-attachments/assets/ad7fe87f-0968-4d0c-abfd-3a75786d5ecb) | ![Analytics](https://github.com/user-attachments/assets/200498ee-ece2-44bd-ba67-b4984b17176c) | ![Race](https://github.com/user-attachments/assets/eab26c94-fb52-460b-882f-5d5af5800b93) |
+
+---
+
 ## Architecture
 
 ```
