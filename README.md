@@ -2,7 +2,7 @@
 
 A developer-focused Android app that **benchmarks and visualizes** multi-layer caching strategies in real time.
 
-Built to demonstrate deep understanding of Android caching architecture for senior engineering roles.
+Built to demonstrate deep understanding of Android caching architecture.
 
 ---
 
