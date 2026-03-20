@@ -75,16 +75,6 @@ UI (Compose) → ViewModel → BenchmarkRunner → CacheFactory → Cache Layer
 
 ---
 
-## Resume Highlights
-
-- Built multi-layer caching system (Memory/Disk/Room/Hybrid) with real-time latency benchmarking
-- Implemented Strategy + Factory patterns for pluggable, runtime-selectable cache strategies
-- Designed analytics pipeline persisting benchmark data to Room with Flow-based reactive UI
-- Architected async "race mode" using Kotlin `async/await` in `coroutineScope` for concurrent strategy comparison
-- Full MVVM + Clean Architecture with Hilt DI, zero coupling between layers
-
----
-
 ## Data Source
 
 [GitHub REST API](https://docs.github.com/en/rest) — `/search/users` endpoint. Free, no auth required for basic usage.
